@@ -10,4 +10,4 @@ But soon they wil be implemented!
 It's our package manager.
 
 ## 🥯 Bitzy on Buns
-Chocobitey automatesd package repository manager.
+Chocobitey automated package repository manager.

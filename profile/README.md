@@ -9,5 +9,5 @@ But soon they wil be implemented!
 ## [🍫 Chocobitey](https://github.com/Chocobitey/core)
 It's our package manager.
 
-## 🥯 Bitzy on Buns
+## [🥯 Bitzy on Buns](https://github.com/Chocobitey/buns)
 Chocobitey automated package repository manager.
